@@ -1,7 +1,5 @@
 # Hasnain Ali Khan - Laravel Developer Portfolio
 
-![Portfolio Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Screenshot)
-
 Professional portfolio website for Hasnain Ali Khan, showcasing skills, projects, and experience as a Laravel developer.
 
 ## 🚀 Features
@@ -40,7 +38,7 @@ hasnain2001/
 
 ## 🌐 Live Demo
 
-[View Live Portfolio](https://hasnain2001.github.io)
+[View Live Portfolio](https://hasnain2001.github.io/hasnain2001/)
 
 ## 🔧 Installation (for local development)
 
